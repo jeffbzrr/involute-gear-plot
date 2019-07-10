@@ -2,7 +2,7 @@
 
 O sript traça o perfil do dente de uma engrenagem cilíndrica de dentes retos, utilizando o Scilab.
 
-<img src="/figures/fig.jpg" width="300"/>
+<img src="/figures/fig.png" width="300"/>
 
 O artigo "Projeto de Engrenagem de Dentes Retos com Perfil Evolvental" de Francisco Ilson da Silva Júnior e Roberto de Araújo Bezerra contém a base teórica para o script.
 
